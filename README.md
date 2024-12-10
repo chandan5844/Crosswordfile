@@ -44,3 +44,34 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+{/*}
+
+    
+    <Page>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<AboutUs/>} />
+          <Route path="/help" element={<ContactUs />} />
+        </Routes>
+        
+      </Router>
+      
+
+      <Header>React-crossword Puzzle With Linux Command Learning</Header>
+      <IpuzWrapper>
+        <CrosswordProvider data={fromIpuz!} storageKey="ipuz-example">
+          <DirectionClues direction="across" />
+          <CrosswordGrid />
+          <DirectionClues direction="down" />
+        </CrosswordProvider>
+       </IpuzWrapper>
+      
+      
+   
+      <Footer/>
+    </Page>
+    */}
+# Crossword-Puzzle
